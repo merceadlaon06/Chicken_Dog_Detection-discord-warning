@@ -5,7 +5,6 @@ __pycache__/
 
 # YOLO / Training outputs
 runs/
-test_output/
 *.log
 
 # Large files (Keep your repo light)
