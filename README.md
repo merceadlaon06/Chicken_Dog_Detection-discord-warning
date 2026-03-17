@@ -144,8 +144,7 @@ This project showcases:
 ## 👤 Author
 
 **Your Name**  
-GitHub: https://github.com/YOUR_USERNAME  
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+GitHub: https://github.com/merceadlaon06
 
 ---
 
