@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# YOLO / Training outputs
+runs/
+test_output/
+*.log
+
+# Large files (Keep your repo light)
+# If MyYolo.pt is >50MB, consider hosting it elsewhere
+# MyYolo.pt 
+
+# OS-specific files
+.DS_Store
+Thumbs.db

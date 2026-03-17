@@ -1,0 +1,10 @@
+# Core Computer Vision & AI
+ultralytics
+opencv-python
+
+# Networking & API (for Discord Webhooks)
+requests
+
+# Supporting libraries
+torch
+torchvision
