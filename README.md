@@ -57,7 +57,7 @@ This project demonstrates a **production-style computer vision inference pipelin
 Annotated output video is saved to:
 
 ```
-runs/chicken_security/dog_alert_blink.mp4
+c:\\Users\\dell\\YOLODetection\\pythonProject1\\test_output
 ```
 
 ---
